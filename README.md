@@ -71,10 +71,3 @@ A web-based **Student Management System** developed using Java, JSP, Servlets, M
 * Validate uploaded file types and sizes.
 * Restrict administrative functions to authenticated admins.
 
-
-
-B.Tech Computer Science Engineering — Cyber Security
-
-## 📜 License
-
-This project is available for educational and learning purposes. Add a license file if you intend to specify formal reuse and distribution terms.
